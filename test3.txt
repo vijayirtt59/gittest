@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F242-6E48
+
+ Directory of C:\Users\vijay\IdeaProjects\Algorithms
+
+08/13/2020  08:06 AM    <DIR>          .
+08/13/2020  08:06 AM    <DIR>          ..
+08/13/2020  07:40 AM    <DIR>          .idea
+11/19/2019  11:05 AM               433 Algorithms.iml
+11/19/2019  11:12 AM    <DIR>          out
+08/13/2020  05:55 AM    <DIR>          src
+08/13/2020  07:39 AM                 5 test.txt
+08/13/2020  07:56 AM                 2 test1.txt
+08/13/2020  08:00 AM                 2 test2.txt
+08/13/2020  08:06 AM                 0 test3.txt
+               5 File(s)            442 bytes
+               5 Dir(s)  327,359,627,264 bytes free
